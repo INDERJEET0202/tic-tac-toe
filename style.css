@@ -17,16 +17,6 @@
     margin-top: 10%;
 }
 
-/* Show x on hover if its x's tern and show O on hover id its o's turn*/
-.title:hover{
-    color: #321734;
-    background-color: white;
-    border-radius: 50%;
-    width: 50px;
-    height: 50px;
-    font-size: 40px;
-    margin-top: 10%;
-}
 
 .display {
     color: white;
